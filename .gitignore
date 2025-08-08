@@ -2,7 +2,7 @@
 
 # dependencies
 node_modules
-/ecommerce/node_modules/*
+/ecommerce_modified/node_modules/*
 /.pnp
 .pnp.js
 

@@ -22,7 +22,7 @@ const Assessment = () => {
       <div className="container my-3 py-3">
         <h1 className="text-center">Johana GABA Assessment</h1>
         <hr />
-        <p className="lead text-center">
+        <p className="lead text-center fs-6">
           Hello,<br />
           Welcome to my Hustlr Frontend Developer Assessment.<br />
           This is the result of my work on the given task within 1 hour. I tried to respect the time constraint as much as possible, so some features are missing to reach a 100% completion.<br />
