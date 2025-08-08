@@ -41,6 +41,6 @@ If you'd like to test the project locally:
 
 ```bash
 git clone git@github.com:ivsgabi/hustlr-assessment.git
-cd ecommerce
+cd ecommerce_completed
 npm install
 npm start
