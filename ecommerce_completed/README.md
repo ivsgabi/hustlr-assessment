@@ -1,3 +1,3 @@
 ## My product Card
 
-![Screenshot of the product card I designed](/productcard_screenshot.png)
+![Screenshot of the product card I designed](public/productcard_screenshot.png)
