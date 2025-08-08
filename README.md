@@ -16,11 +16,9 @@ I noticed that **Bootstrap** was already used in the project, so I relied on it 
 
 ## 🔧 Features Implemented
 
-- ✅ **Product card** fetching data from the provided API (`https://fakestoreapi.com/products/1`).
+- ✅ **Product card** with image, title, price, fetching data from the provided API (`https://fakestoreapi.com/products/1`).
+- ✅ Add to Cart and Out Of Stock logic implemented.
 - ✅ UI includes **size** and **color** dropdowns (even though not provided by the API, I simulated them for demonstration purposes).
-- ✅ **Toast notifications** when adding a product to the cart.
-- ✅ Correct **title display** in the cart.
-- ✅ Quantity properly **increments** when the same product is added multiple times.
 
 You can see these features live on the `/assessment` route of the app.
 
