@@ -40,7 +40,7 @@ You’ll find a section in the page itself where I briefly mentioned improvement
 If you'd like to test the project locally:
 
 ```bash
-git clone ...
+git clone git@github.com:ivsgabi/hustlr-assessment.git
 cd ecommerce
 npm install
 npm start
