@@ -16,7 +16,7 @@ I noticed that **Bootstrap** was already used in the project, so I relied on it 
 
 ## 🔧 Features Implemented
 
-- ✅ **Product card** with image, title, price, fetching data from the provided API (`https://fakestoreapi.com/products/1`).
+- ✅ An interective **Product card** with image, title and price, fetching data from the provided API (`https://fakestoreapi.com/products/1`).
 - ✅ Add to Cart and Out Of Stock logic implemented.
 - ✅ UI includes **size** and **color** dropdowns (even though not provided by the API, I simulated them for demonstration purposes).
 
